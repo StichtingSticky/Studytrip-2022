@@ -288,7 +288,7 @@ header {
     background-position: center center;
     background-color: #555;
     
-    background-image: url('../img/header.jpg');
+    /* background-image: url('../img/header.jpg'); */
     
     background-repeat: none;
     -webkit-background-size: cover;
